@@ -1,0 +1,23 @@
+node_modules/*
+public/*
+test/artifacts/*
+.env
+*.tmp
+storybook-static
+coverage
+build
+.upignore
+
+# AWS Lambda
+**/node_modules
+lambda/env.json
+
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Mac files
+*.DS_Store
+
