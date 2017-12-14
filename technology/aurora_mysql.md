@@ -1,5 +1,9 @@
 # Aurora MySQL
-AWS fully managed relational db.
+## Why SQL (or why not NO-SQL)?
+We chose to work with a SQL storage for two main reasons:
+
+* Proven technology. While not the latest hype, SQL is a safe bet. It is a proven technology than can handle high scale, and is known for data consistency.
+* Relational data model - SQL works well when you can clearly model your data and there are strong relationships between the tables (as opposed to unstructured data). Torii data can clearly be modelled in terms of objects and relationships.
 
 ## Aurora
 
