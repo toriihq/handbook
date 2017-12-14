@@ -11,6 +11,7 @@ The Torii developer handbook is the central repository for how we develop our pr
     * [JavaScript](technology/javascript.md)
     * [React](technology/react.md)
     * [Hapi](technology/hapi.md)
+    * [Aurora MySQL](technology/aurora_mysql.md)
     * [Coding Style](technology/coding_style.md)
     * [Styling](technology/styling.md)
     * [Environment variables](technology/env_vars.md)
