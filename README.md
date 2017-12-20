@@ -22,13 +22,14 @@ The Torii developer handbook is the central repository for how we develop our pr
 
 * Code Quality
     * [Code reviews](quality/code_reviews.md)
-    * Automated Testing
-    * QA without QA. See Uri's presentation.
-    * Alerts. Good alerts are critical to find bugs before our customers do.
+    * [Automated Testing](quality/automated_testing.md)
+    * [QA without QA](quality/qa_without_qa.md)
+    * [Alerts](quality/alerts.md)
 
 * Devops
-    * No-ops
-    * CI / CD
+    * [No Ops](devops/noops.md)
+    * [Continuous Integration / Continuous Deployment](devops/cicd.md)
+    * [Feature Flags](devops/feature_flags.md)
     * AWS Gateway + Serverless using "up". why, how
     * Background jobs
 
@@ -37,7 +38,7 @@ The Torii developer handbook is the central repository for how we develop our pr
     * Sharing sensitive data
 
 * General
-    * Tips and tricks for Mac. (Useful apps: ClipMenu, Spectacle)
+    * [Tips and tricks for Mac](general/mac_tips.md)
     * Choose your favorite IDE (vi, vscode, WebStorm - ask tal@toriihq.com for license)
 
 

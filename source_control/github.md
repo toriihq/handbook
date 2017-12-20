@@ -17,3 +17,9 @@ To keep the flow **simple** and avoid merge conflicts, we use the following step
 5. Once reviewed, `Squash merge` the changes.
 
 Note: `master` should always be deployable, and for most projects – it is automatically deployed.
+
+# Useful Links
+
+* [Torii on GitHub](https://github.com/toriihq)
+* [All open PRs on GitHub](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3Atoriihq+)
+* [hub - CLI tool for GitHub](https://hub.github.com/)
