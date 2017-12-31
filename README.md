@@ -30,16 +30,16 @@ The Torii developer handbook is the central repository for how we develop our pr
     * [No Ops](devops/noops.md)
     * [Continuous Integration / Continuous Deployment](devops/cicd.md)
     * [Feature Flags](devops/feature_flags.md)
-    * AWS Gateway + Serverless using "up". why, how
-    * Background jobs
+    * [Serverless API Server](devops/serverless_api.md)
+    * [Serverless Background jobs](devops/serverless_bg.md)
 
 * Communication
-    * Important channels on Slack
+    * [Important channels on Slack](communication/slack.md)
     * Sharing sensitive data
 
 * General
     * [Tips and tricks for Mac](general/mac_tips.md)
-    * Choose your favorite IDE (vi, vscode, WebStorm - ask tal@toriihq.com for license)
+
 
 
 

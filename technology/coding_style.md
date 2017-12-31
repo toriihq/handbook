@@ -73,7 +73,7 @@ try {
 }
 ```
 
-**Use ES6 import/exort syntax**
+**Use ES6 import/export syntax**
 
 ```js
 // Less of this
