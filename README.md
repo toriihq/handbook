@@ -35,7 +35,7 @@ The Torii developer handbook is the central repository for how we develop our pr
 
 * Communication
     * [Important channels on Slack](communication/slack.md)
-    * Sharing sensitive data
+    * [Sensitive data](communication/sensitive_data.md)
 
 * General
     * [Tips and tricks for Mac](general/mac_tips.md)

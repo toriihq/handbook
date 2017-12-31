@@ -2,7 +2,9 @@
 
 ## What not to do
 
-**Do not share any sensitive information that might be leaked in the future**. Our customers data/files should never appear on Slack.
+**Do not share any sensitive information that might be leaked in the future**.
+
+Our customers data/files should never appear on Slack. For ways to transfer sensitive data securely see [Sensitive data](sensitive_data.md).
 
 ## Channels
 
