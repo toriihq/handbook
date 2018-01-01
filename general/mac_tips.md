@@ -34,8 +34,6 @@ Remap keyboard shortcuts from `keyboard` settings -> `Shortcuts`:
 
 [Clipy](https://github.com/Clipy/Clipy) is a clipboard extension app for macOS. It stores your copy/paste history and is very useful
 
-(Useful apps: Clippy, Spectacle)
-
 #### Sequel Pro - MySQL client
 
 [Sequel Pro](https://www.sequelpro.com) is a great application to work with MySQL databases.
