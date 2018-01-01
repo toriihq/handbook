@@ -28,7 +28,7 @@ Tests a few components together, might involve setting up a database or testing 
 
 Tests the entire system as a user would. Usually involves running a browser, clicking here asserting to simulate a real user behavior.
 
-Tests are slow, flaky but can real world problems.
+Tests are slow, flaky but can simulate real world problems.
 
 We currently **focus on unit tests**, as they are more reliable and focus on testing that the logic is correct.
 
