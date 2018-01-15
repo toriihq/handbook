@@ -2,7 +2,7 @@
 
 > our job is not to code
 > our job is not to test
-> we are sotware engineers
+> we are software engineers
 > we SHIP software that SOLVES problems
 
 ## Why?
