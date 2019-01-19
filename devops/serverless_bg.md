@@ -13,7 +13,7 @@ Pros:
 
 Cons:
 
-- 5 minutes limit is short
+- 15 minutes limit
 
 ## How
 
