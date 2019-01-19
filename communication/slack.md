@@ -15,7 +15,7 @@ Some channels are more interesting than others, here's an overview:
 | customer-experience | Share feedback and insights from our customers |
 | deployments         | See web applications deployments status |
 | design              | Discussion around design and branding |
-| development updates | Share development questions and updates |
+| development         | Share development questions and updates |
 | general             | Everything else |
 | github              | Get notified for commits, PRs, comments, approvals, rejections |
 | interesting         | Interesting stuff, not necessarily work related |
