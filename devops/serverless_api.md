@@ -9,12 +9,13 @@ Pros:
 - SSL termination is taken care by the AWS Gateway
 - Supports multiple environments
 - Supports versioning and rollbacks
-- Cost is low
+- Operation cost is low
 
 Cons:
 
 - Cold starts can make the API slow (during scaling)
-- Version of Node.js is controlled by AWS (not the latest one currently)
+- 30 seconds HTTP request limit
+- Cost may be larger when scaling up
 
 ## How
 
