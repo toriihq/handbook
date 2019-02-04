@@ -37,3 +37,12 @@ Remap keyboard shortcuts from `keyboard` settings -> `Shortcuts`:
 #### Sequel Pro - MySQL client
 
 [Sequel Pro](https://www.sequelpro.com) is a great application to work with MySQL databases.
+
+#### Iterm2
+
+[Iterm2](https://www.iterm2.com/index.html) is a great terminal to work with instead of Mac's regular terminal. You can split screens, use Hotkeys, search, use autocomplete and do other fun stuff.
+
+#### Oh My ZSH 
+
+[Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) is a framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that will make you happy.
+
