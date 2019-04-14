@@ -31,12 +31,12 @@ import { css } from 'glamor`
 import { fontSizes } from '../sizes`
 import { colors } from '../colors`
 
-const CSS = {
+const CSS = css({
   header: {
     fontSize: fontSize.small,
     color: colors.blue
   }
-}
+})
 
 return (
   <div>
