@@ -12,7 +12,7 @@ To keep the flow **simple** and avoid merge conflicts, we use the following step
 
 1. Create a new branch from `master`. Any descriptive name will do.
 2. Work on your branch and push changes to GitHub.
-3. If there are merge conflicts with `master`, resolve the merge locally. Avoid using `rebase` as this adds complexity to all steps.
+3. If there are merge conflicts with `master`, resolve the merge locally. We rarely use `rebase` as we're going to squash the commits on merge.
 4. Create a Pull Request to `master`.
 5. Once reviewed, `Squash merge` the changes.
 

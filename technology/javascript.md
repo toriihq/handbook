@@ -15,6 +15,4 @@ JavaScript is *universal*, the same code can run both on browsers and on servers
 
 Using the latest JavaScript features is encouraged. Features such as `async`/`await` simplifies the flow control of our apps so any opportunity to make our codebase simpler is welcomed.
 
-We aim to support the latest desktop/mobile evergreen browsers: Chrome, Firefox, Edge and Safari.
-
-Marketing site might require support for older browsers (such as IE)
+We aim to support only the latest desktop/mobile evergreen browsers: Chrome, Firefox, Edge and Safari.

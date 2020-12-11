@@ -36,4 +36,4 @@ We currently **focus on unit tests**, as they are more reliable and focus on tes
 
 First, what shouldn't be tested? Getters, setters and anything trivial.
 
-Test functions that can get multiple types of inputs and their outputs are critical. Good candidates are code with lots of `if`s and `for`/`forEach`/`map`/`reduce`.
+Test functions that can get multiple types of inputs, and their outputs are critical. Good candidates are code with lots of `if`s and `for`/`forEach`/`map`/`reduce`.

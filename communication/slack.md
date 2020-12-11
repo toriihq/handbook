@@ -12,7 +12,7 @@ Some channels are more interesting than others, here's an overview:
 
 | Channel             | Purpose  |
 |---------------------|----------|
-| customer-experience | Share feedback and insights from our customers |
+| customer-success    | Share feedback and insights from our customers |
 | deployments         | See web applications deployments status |
 | design              | Discussion around design and branding |
 | development         | Share development questions and updates |
@@ -21,11 +21,12 @@ Some channels are more interesting than others, here's an overview:
 | interesting         | Interesting stuff, not necessarily work related |
 | lol                 | Things that makes you LOL |
 | monitoring          | All alerts of issues/errors end up here |
-| product discovery   | Talk about our product's future |
+| product-discovery   | Talk about our product's future |
 | releases            | Manual feed of released features to production |
 | security            | Report found security issues here |
-| support-incidents   | Customer issues that require immediate attention |
-| user-events         | Realtime events taken by our customers (signups, file uploads, etc...) |
+| panic               | Customer issues that require immediate attention |
+| user_events         | Realtime events taken by our customers (signups, file uploads, etc...) |
+| integrations-events | Realtime events taken by our customers related to integrations |
 
 ## Adding new channels
 

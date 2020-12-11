@@ -19,12 +19,10 @@ Cons:
 
 ## How
 
-We use [apex/up](https://github.com/apex/up)
+We use [The Serverless Framework](https://github.com/serverless/serverless)
 
-> Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+> Build applications comprised of microservices that run in response to events, auto-scale for you, and only charge you when they run. This lowers the total cost of maintaining your apps, enabling you to build more logic, faster.
 
-See [documentation](https://up.docs.apex.sh)
-
-`up` is a command line utility that uploads a full API server as a single Lambda function and creates an API Gateway that routes requests to it.
+The `serverless.yml` file includes all the infrastructure definitions to create a full API server as a single Lambda function and creates an API Gateway that routes requests to it.
 
 Everything happens on our AWS account and our [CI tool](cicd.md) uses it to deploy the API server on each successful commit to `master`.

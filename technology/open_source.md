@@ -4,12 +4,7 @@
 
 Use any open source framework, package or tool, but pay attention to its license. It should allow us to use it commercially without disclosing our source code.
 
-To generate license report for the npm packages, use a tool like `license-checker`:
-
-```bash
-$ npm install -g license-checker
-$ license-checker
-```
+To generate a license report for the npm packages, use [OSS License Check](https://github.com/toriihq/oss_license_check) tool we build on top of the `license-checker` npm module.
 
 ## Give back
 

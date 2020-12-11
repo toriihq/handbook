@@ -10,9 +10,5 @@ Once a feature is ready to be fully released, we can turn the Feature Flag on. F
 
 ## How
 
-We currently use hardcoded values in our codebase, which isn't perfect. It allows us to have feature flags, but requires a commit and deployment for changing the feature flag's state.
-
-Possible solutions are:
-* Storing the flags on an external database
-* Using a third-party "Feature Flags" SaaS service
+Feature flags for each customer can be set in the MySQL DB table `feature_flag`. These are sent to the client and processed on the web application.
 
