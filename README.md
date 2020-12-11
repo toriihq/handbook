@@ -1,6 +1,6 @@
 # Developer handbook
 
-The Torii developer handbook is the central repository for how we develop our products. This is a living document, feel free to add/remove/edit/improve it.
+The [Torii](https://toriihq.com) developer handbook is the central repository for how we develop our products. This is a living document, feel free to add/remove/edit/improve it.
 
 * General
     * We deliver value to our customers by finding **simple** solutions to complex problems.
