@@ -12,5 +12,5 @@ Because Open Source plays a major part in how we build our products, we see it a
 
 This can take two forms:
 
-1. Releasing code that was useful for us. Our public code repos are listed here: [public GitHib repos](https://github.com/toriihq?type=public).
+1. Releasing code that was useful for us. Our public code repos are listed here: [public GitHub repos](https://github.com/toriihq?type=public).
 2. Contribute to open source software we use by submitting PRs.
