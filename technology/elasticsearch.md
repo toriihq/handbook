@@ -1,3 +1,5 @@
+# ⚠️ End of life - Please reach out to @assafshwartz for more information
+
 # Elasticsearch
 
 > Elasticsearch is a distributed, open source search and analytics engine for all types of data,
