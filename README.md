@@ -23,7 +23,9 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
 
 * Code Quality
     * [Code reviews](quality/code_reviews.md)
+      * [Pull Requests @ Torii](https://www.notion.so/toriihq/Best-Practices-Branches-Commits-PR-and-Reviews-c7c22336cc984d42b84074c7698abae2#35459f7cbfbe4d868a4fa549bbf8fc36)
     * [Automated Testing](quality/automated_testing.md)
+      * [Testing @ Torii](https://www.notion.so/toriihq/Testing-Torii-Know-how-and-best-practices-6d4e3367ed2d4a5eb27622333fbeee58)
     * [QA without QA](quality/qa_without_qa.md)
     * [Alerts](quality/alerts.md)
 
