@@ -16,3 +16,7 @@ JavaScript is *universal*, the same code can run both on browsers and on servers
 Using the latest JavaScript features is encouraged. Features such as `async`/`await` simplifies the flow control of our apps so any opportunity to make our codebase simpler is welcomed.
 
 We aim to support only the latest desktop/mobile evergreen browsers: Chrome, Firefox, Edge and Safari.
+
+## TypeScript
+
+In April 2022, we have started work to include TypeScript in our stack. A decision if focus should be 100% shifted to TypeScript will be decided by the team during May-June 2022.
