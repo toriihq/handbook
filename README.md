@@ -35,6 +35,7 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
     * [Feature Flags](devops/feature_flags.md)
     * [Serverless API Server](devops/serverless_api.md)
     * [Serverless Background jobs](devops/serverless_bg.md)
+    * [Frontend](devops/fed.md)
 
 * Communication
     * [Important channels on Slack](communication/slack.md)
