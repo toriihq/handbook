@@ -2,15 +2,17 @@
 
 ## Standard JS
 
-Coding style tends to be hard to agree on and leads to a lot of bikeshedding. We decided to outsource our decisions to the [standard](https://standardjs.com/) JS coding style. It has nothing standard but its name, but it aligns everyone on the same coding style.
+Coding style tends to be hard to agree on and leads to a lot of bikeshedding. Thus we decided to embrace the [JavaScript Standard Style](https://standardjs.com/) style guide. It has nothing standard but its name, but it aligns everyone on the same coding style.
 
-It is used as a plugin to your favorite IDE (vi, WebStorm, vscode) and runs on every commit via a git-commit hook.
+It is used as a plugin to your favorite IDE (`vi`, `WebStorm`, `vscode` etc.) and runs on every commit via a git-commit hook.
 
 Hopefully, code reviews will never be about coding style, but making the code simple and robust.
 
 ## Guidelines
 
-Not strict, but following these will help keep the codebase aligned:
+Since not everything related to coding style can be enforced automatically, here are some guidelines you should pay attention to.
+
+This is neither a strict nor a comprehensive list, but following these will help keep the codebase aligned:
 
 **Prefer const over let**
 
