@@ -14,9 +14,11 @@ Since not everything related to coding style can be enforced automatically, here
 
 This is neither a strict nor a comprehensive list, but following these will help keep the codebase aligned:
 
-**Prefer const over let**
+**Prefer `const` over `let`**
 
-Always use `const`, unless the value/reference needs to change - then use `let`. Never use `var`.
+Always use `const`, unless the value/reference needs to change - then use `let`. 
+
+`var` should be avoided entirely.
 
 ```js
 // Less of this

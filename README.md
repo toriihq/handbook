@@ -14,7 +14,7 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
     * [Aurora MySQL](technology/aurora_mysql.md)
     * [Elasticsearch](technology/elasticsearch.md)
     * [Coding Style](technology/coding_style.md)
-    * [Styling](technology/styling.md)
+    * [UI Styling](technology/ui_styling.md)
     * [Environment variables](technology/env_vars.md)
     * [Open Source](technology/open_source.md)
 

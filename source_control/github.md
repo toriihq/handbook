@@ -2,7 +2,7 @@
 
 ## Why GitHub?
 
-GitHub is the leading git repository hosting service. Most apps have integrations for GitHub, most open source projects can be found on GitHub and it has tools for collaboration.
+[GitHub](https://github.com) is the leading git repository hosting service. Most apps have integrations for GitHub, most open source projects can be found on GitHub and it has tools for collaboration.
 
 ## Workflow
 
