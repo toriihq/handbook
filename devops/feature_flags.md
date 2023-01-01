@@ -10,5 +10,6 @@ Once a feature is ready to be fully released, we can turn the Feature Flag on. F
 
 ## How
 
-Feature flags for each customer can be set in the MySQL DB table `feature_flag`. These are sent to the client and processed on the web application.
+Feature flags for each customer can be set in the MySQL DB table `feature_flag`, but should be edited using the `/api/orgs/{idOrg}/featureFlag` API endpoint.
 
+These are sent to the client and processed on the web application.

@@ -11,11 +11,17 @@ Forget everything you know about separating Markup and Style. CSS-in-JS comes to
 - Refactoring and finding dead styles
 - Sharing styles via npm
 
+## Glamor & Styled Components
+
+We initially chose [glamor](https://github.com/threepointone/glamor) for styling, but are now transitioning into [Style Components](https://styled-components.com/).
+
+There is still Glamor CSS in our code, but we are looking to remove its usage over time.
+
 ## Glamor
 
-We chose [glamor](https://github.com/threepointone/glamor) for styling. We use the `colors` and `sizes` files for common variables:
+We initially chose [glamor](https://github.com/threepointone/glamor) for styling. We use the `colors` and `sizes` files for common variables:
 
-## Variables
+### Glamor Variables
 
 JavaScript allows us to define variables and common styling in files:
 
@@ -24,7 +30,7 @@ JavaScript allows us to define variables and common styling in files:
 * `texts.js` - Useful collection of typography
 * `mixins.js` - Styling utilities
 
-## Example
+### Glamor Example
 
 ```jsx
 import { css } from 'glamor`

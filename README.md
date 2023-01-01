@@ -8,7 +8,7 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
     * We take end to end **ownership** of what we build.
 
 * Technology
-    * [JavaScript](technology/javascript.md)
+    * [JavaScript / TypeScript](technology/javascript.md)
     * [React](technology/react.md)
     * [Hapi](technology/hapi.md)
     * [Aurora MySQL](technology/aurora_mysql.md)
@@ -35,7 +35,7 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
     * [Feature Flags](devops/feature_flags.md)
     * [Serverless API Server](devops/serverless_api.md)
     * [Serverless Background jobs](devops/serverless_bg.md)
-    * [Frontend](devops/fed.md)
+    * [Frontend DevOps](devops/fed.md)
 
 * Communication
     * [Important channels on Slack](communication/slack.md)
