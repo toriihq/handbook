@@ -6,6 +6,8 @@ Products and code bases tend to grow over time, which means more testing is need
 
 Automating tests build confidence for moving fast. It helps design and document the code, provides a safe-net for future refactoring and provides the base for CI and CD.
 
+In addition, having deterministic safe-guards allows to utilize AI Agents for writing code, reducing regressions and documenting wanted behavior.
+
 ## How?
 
 There are three main types of tests:

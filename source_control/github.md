@@ -22,4 +22,4 @@ Note: `master` should always be deployable, and for most projects – it is auto
 
 * [Torii on GitHub](https://github.com/toriihq)
 * [All open PRs on GitHub](https://github.com/pulls?utf8=%E2%9C%93&q=is%3Aopen+is%3Apr+user%3Atoriihq+)
-* [hub - CLI tool for GitHub](https://hub.github.com/)
+* [gh - CLI tool for GitHub](https://cli.github.com/)

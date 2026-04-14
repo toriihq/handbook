@@ -21,4 +21,6 @@ We aim to support only the latest desktop/mobile evergreen browsers: Chrome, Fir
 
 In 2022, work started to include TypeScript in our stack. For projects that already support TypeScript, we expect new code to be written in TypeScript.
 
-Code changes for JavaScript files can be done by first replacing the code to TypeScript and then applying the changes. This is not yet mandatory.
+Code changes for JavaScript files can be done by first replacing the code to TypeScript and then applying the changes.
+
+As of 2026, about 70% of the code is written in TypeScript.

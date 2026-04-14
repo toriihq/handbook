@@ -12,22 +12,22 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
     * [React](technology/react.md)
     * [Hapi](technology/hapi.md)
     * [Aurora MySQL](technology/aurora_mysql.md)
-    * [Elasticsearch](technology/elasticsearch.md)
+    * [OpenSearch](technology/elasticsearch.md)
     * [Coding Style](technology/coding_style.md)
     * [Styling](technology/styling.md)
     * [Environment variables](technology/env_vars.md)
     * [Open Source](technology/open_source.md)
+    * [Agentic Coding](technology/agentic_coding.md)
 
 * Source Control
     * [GitHub workflow](source_control/github.md)
 
 * Code Quality
     * [Code reviews](quality/code_reviews.md)
-      * [Pull Requests @ Torii](https://www.notion.so/toriihq/Best-Practices-Branches-Commits-PR-and-Reviews-c7c22336cc984d42b84074c7698abae2#35459f7cbfbe4d868a4fa549bbf8fc36)
     * [Automated Testing](quality/automated_testing.md)
       * [Testing @ Torii](https://www.notion.so/toriihq/Testing-Torii-Know-how-and-best-practices-6d4e3367ed2d4a5eb27622333fbeee58)
     * [QA without QA](quality/qa_without_qa.md)
-    * [Alerts](quality/alerts.md)
+    * [Monitoring & Alerts](quality/alerts.md)
 
 * Devops
     * [No Ops](devops/noops.md)
@@ -38,7 +38,6 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
     * [Frontend DevOps](devops/fed.md)
 
 * Communication
-    * [Important channels on Slack](communication/slack.md)
     * [Sensitive data](communication/sensitive_data.md)
 
 * General
