@@ -26,9 +26,9 @@ Remap keyboard shortcuts from `keyboard` settings -> `Shortcuts`:
 
 ## Useful applications
 
-#### Spectacle - move and resize windows with ease
+#### Rectangle - move and resize windows with ease
 
-[Spectacle](https://www.spectacleapp.com) adds keyboard shortcuts for moving and resizing your windows, similar to Windows OS.
+[Rectangle](https://rectangleapp.com/) adds keyboard shortcuts for moving and resizing your windows, similar to Windows OS.
 
 #### Raycast - clipboard manager
 
