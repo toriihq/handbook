@@ -11,43 +11,31 @@ Forget everything you know about separating Markup and Style. CSS-in-JS comes to
 - Refactoring and finding dead styles
 - Sharing styles via npm
 
-## Glamor & Styled Components
+## Styled Components
 
-We initially chose [glamor](https://github.com/threepointone/glamor) for styling, but are now transitioning into [Style Components](https://styled-components.com/).
+We use [Styled Components](https://styled-components.com/) for styling. Use the Styled Components `ThemeProvider` theme for colors, sizes and other design tokens.
 
-There is still Glamor CSS in our code, but we are looking to remove its usage over time.
-
-## Glamor
-
-We initially chose [glamor](https://github.com/threepointone/glamor) for styling. We use the `colors` and `sizes` files for common variables:
-
-### Glamor Variables
-
-JavaScript allows us to define variables and common styling in files:
-
-* `sizes.js` - Contains font-sizes, font-weights, zIndexes, etc...
-* `colors.js` - Contains the Torii color scheme
-* `texts.js` - Useful collection of typography
-* `mixins.js` - Styling utilities
-
-### Glamor Example
+### Example
 
 ```jsx
-import { css } from 'glamor`
-import { fontSizes } from '../sizes`
-import { colors } from '../colors`
+import styled from 'styled-components'
 
-const CSS = css({
-  header: {
-    fontSize: fontSize.small,
-    color: colors.blue
-  }
-})
+const Header = styled.div`
+  font-size: ${({ theme }) => theme.fontSizes.small};
+  color: ${({ theme }) => theme.colors.blue};
+`
 
 return (
   <div>
-    <div {...CSS.header}>Header</div>
-    <div className={CSS.header.toString()}>Or like this</div>
+    <Header>Header</Header>
   </div>
 )
 ```
+
+### Legacy Variables
+
+Older code imports directly from `colors.js`, `sizes.js`, `texts.js` and `mixins.js`. When touching these files, migrate to using the theme instead.
+
+## Legacy: Glamor
+
+There is still [Glamor](https://github.com/threepointone/glamor) CSS in the codebase. When touching files that use Glamor, convert them to Styled Components.

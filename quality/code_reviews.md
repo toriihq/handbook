@@ -14,6 +14,8 @@ We use GitHub Pull Requests for reviews. Anyone can review any code and we usual
 
 Someone (or more than one) will pick that up and review it. For non trivial PRs it is advised to sit together and go over the changes.
 
-## Tools
+From 2026, label the PRs with the `claude-review` label and get a review from the "Claude Reviewer". If it approves, you can merge the PR. If you need a second human eye, don't hesitate to ask.
 
-Check out the [Better Pull Request for GitHub](https://chrome.google.com/webstore/detail/better-pull-request-for-g/nfhdjopbhlggibjlimhdbogflgmbiahc) for improving the GitHub PR experience (developed here at Torii).
+## GitHub PR Template
+
+Each repo contains a `.github/pull_request_template.md` which is a template used by GitHub. It will guide you for creating an effective PR description so other developers and AI Agents can better understand the PR.

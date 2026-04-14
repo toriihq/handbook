@@ -6,7 +6,7 @@
 
 We chose OpenSearch to allow for faster and smarter APIs.
 
-While MySQL provides proven technology for storing the raw data, it lags behind in the ability to ofer complex filters and searches. 
+While MySQL provides proven technology for storing the raw data, it lags behind in the ability to offer complex filters and searches. 
 
 ## OpenSearch on AWS
 

@@ -13,3 +13,7 @@ Once a feature is ready to be fully released, we can turn the Feature Flag on. F
 Feature flags for each customer can be set in the MySQL DB table `feature_flag`, but should be edited using the `/api/orgs/{idOrg}/featureFlag` API endpoint.
 
 These are sent to the client and processed on the web application.
+
+## Lifecycle
+
+Feature flags should be temporary. Once a feature is fully rolled out and stable, remove the flag and its conditional logic from the codebase. Stale flags add complexity and make code harder to reason about for both humans and AI agents.

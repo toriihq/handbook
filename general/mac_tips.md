@@ -26,13 +26,13 @@ Remap keyboard shortcuts from `keyboard` settings -> `Shortcuts`:
 
 ## Useful applications
 
-#### Spectacle - move and resize windows with ease
+#### Rectangle - move and resize windows with ease
 
-[Spectacle](https://www.spectacleapp.com) adds keyboard shortcuts for moving and resizing your windows, similar to Windows OS.
+[Rectangle](https://rectangleapp.com/) adds keyboard shortcuts for moving and resizing your windows, similar to Windows OS.
 
-#### Clipy - clipboard manager
+#### Raycast - clipboard manager
 
-[Clipy](https://github.com/Clipy/Clipy) is a clipboard extension app for macOS. It stores your copy/paste history and is very useful
+[Raycast](https://www.raycast.com/) is a Spotlight replacement. In addition, it stores your copy/paste history and is very useful for day to day work.
 
 #### Sequel Ace - MySQL client
 
@@ -45,4 +45,3 @@ Remap keyboard shortcuts from `keyboard` settings -> `Shortcuts`:
 #### Oh My ZSH 
 
 [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) is a framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that will make you happy.
-
