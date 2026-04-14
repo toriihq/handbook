@@ -12,7 +12,7 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
     * [React](technology/react.md)
     * [Hapi](technology/hapi.md)
     * [Aurora MySQL](technology/aurora_mysql.md)
-    * [OpenSearch](technology/elasticsearch.md)
+    * [OpenSearch](technology/opensearch.md)
     * [Coding Style](technology/coding_style.md)
     * [Styling](technology/styling.md)
     * [Environment variables](technology/env_vars.md)
@@ -40,7 +40,7 @@ The [Torii](https://toriihq.com) developer handbook is the central repository fo
 * Communication
     * [Sensitive data](communication/sensitive_data.md)
 
-* General
+* Tools & Tips
     * [Tips and tricks for Mac](general/mac_tips.md)
 
 

@@ -12,6 +12,6 @@ Do not share any sensitive information on third party communication tools such a
 
 There are a few ways to transfer data securely:
 
-1. Use physical drives such as a USB drive
-2. Use peer to peer software (Apple's AirDrop, sharedrop.io)
-3. Use a password manager to share passwords / keys
+1. Use a password manager (1Password) to share passwords / keys / secrets
+2. Use peer to peer transfer (Apple's AirDrop)
+3. Use AWS Secrets Manager for production secrets and credentials
